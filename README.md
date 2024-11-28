@@ -16,7 +16,6 @@ This project demonstrates hosting a static website on AWS using **Amazon S3** fo
   - [Step 4: Implement CI/CD with GitHub Actions](#step-4-implement-cicd-with-github-actions)
 - [Challenges Faced](#challenges-faced)
 - [Key Takeaways](#key-takeaways)
-- [Resources](#resources)
 
 ---
 
