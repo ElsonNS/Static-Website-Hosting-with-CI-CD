@@ -52,7 +52,7 @@ Below is the architecture of the setup:
 - **CloudFront**: For content delivery and caching.
 - **Route 53**: For DNS management.
 - **GitHub Actions**: For CI/CD pipeline.
-- **draw.io/Lucidchart**: For architecture visualization.
+- **draw.io**: For architecture visualization.
 
 ---
 
